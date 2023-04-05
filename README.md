@@ -6,7 +6,8 @@
 
 ------------
 
-## INTRODUCCIÓN
+## *INTRODUCCIÓN*
+
 
 ¡Bienvenido/a!.
 
@@ -21,7 +22,17 @@ Gracias por elegirnos como tu consultora de Data Science. ¡Estamos listos para 
 
 ------------
 
-#### OBJETIVOS  
+## *OBJETIVOS*  
+
+
+En MindScope, nuestro objetivo es ayudar a las empresas a aprovechar al máximo el Big Data, y una de las formas en que podemos hacerlo es mediante la creación de modelos predictivos para la búsqueda de empleados.
+
+Para lograr este objetivo, nos hemos propuesto estudiar toda la demanda del mercado laboral actual y utilizar esa información para desarrollar un modelo predictivo que facilite la búsqueda de empleados para las empresas. Este modelo se basará en el análisis de datos en tiempo real para identificar las habilidades y competencias que son más valoradas en el mercado laboral actual.
+
+Pero no solo queremos ayudar a las empresas a encontrar los empleados adecuados. También queremos ayudar a los empleados a mejorar sus posibilidades de encontrar un trabajo adecuado. Para ello, también estamos trabajando en el desarrollo de otro modelo predictivo que proporcione un feedback a los empleados sobre las herramientas que deberían aprender para aumentar su probabilidad de obtener un puesto de trabajo.
+
+Creemos que estos modelos predictivos son el futuro de la búsqueda de empleados y estamos emocionados de trabajar en ellos para proporcionar a las empresas y empleados las herramientas que necesitan para alcanzar el éxito.
+
 
 ------------
 
