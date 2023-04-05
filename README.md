@@ -68,7 +68,8 @@ Creemos que estos modelos predictivos son el futuro de la búsqueda de empleados
 - *Slack.*
 - *Google Meet.*
 
-**Metodologia de trabajo:**
+**Metodologia de trabajo:**  
+
 Utilizamos Scrum para trabajar en este proyecto. Scrum es un marco de trabajo ágil que nos permite gestionar y colaborar en equipos de forma eficiente para alcanzar nuestros objetivos. A través de iteraciones cortas y enfocadas en resultados, nos aseguramos de que nuestro equipo esté alineado y que los cambios necesarios se realicen de manera oportuna. Scrum también nos permite adaptarnos rápidamente a los cambios y desafíos del proyecto, lo que garantiza que entreguemos un producto de alta calidad en el plazo establecido.
 
 
