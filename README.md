@@ -6,7 +6,7 @@
 
 ------------
 
-<h2 align=center>INTRODUCCIÓN</h2>
+## INTRODUCCIÓN
 
 ¡Bienvenido/a!.
 
