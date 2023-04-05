@@ -6,7 +6,7 @@
 
 ------------
 
-## *INTRODUCCIÓN*
+## **INTRODUCCIÓN**
 
 
 ¡Bienvenido/a!.
@@ -22,7 +22,7 @@ Gracias por elegirnos como tu consultora de Data Science. ¡Estamos listos para 
 
 ------------
 
-## *OBJETIVOS*  
+## **OBJETIVOS** 
 
 
 En MindScope, nuestro objetivo es ayudar a las empresas a aprovechar al máximo el Big Data, y una de las formas en que podemos hacerlo es mediante la creación de modelos predictivos para la búsqueda de empleados.
@@ -36,7 +36,37 @@ Creemos que estos modelos predictivos son el futuro de la búsqueda de empleados
 
 ------------
 
-#### TECNOLOGIAS UTILIZADAS
+## **TECNOLOGIAS UTILIZADAS**
+
+**Sistemas operativos:**
+
+- Windows.
+
+**Plataforma de servicios en la nube:**
+
+- Amazon Web Services (AWS).
+
+**Herramientas de desarrollo:**
+
+- Docker.
+- Visual Studio Code.
+
+**Herramientas de colaboración y almacenamiento en línea:**
+
+- Google Colabs.
+- Trello.
+- GitHub.
+- Google Drive.
+
+**Herramientas de visualización de datos:**
+
+- PowerBI
+
+**Herramientas de comunicación y colaboración:**
+
+- Discord.
+- Slack.
+- Google Meet.
 
 
 
