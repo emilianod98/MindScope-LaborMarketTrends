@@ -4,10 +4,11 @@
   <img src="https://github.com/emilianod98/MindScope-LaborMarketTrends/blob/main/MindScope.png">
 </p>
 
-------------
+---
 
 ## **INTRODUCCIÓN**
 
+---
 
 ¡Bienvenido/a!.
 
@@ -20,10 +21,11 @@ En MindScope estamos comprometidos a ayudar a las empresas a dar el salto y util
 Gracias por elegirnos como tu consultora de Data Science. ¡Estamos listos para ayudarte a hacer crecer tu negocio!
 
 
-------------
+---
 
 ## **OBJETIVOS** 
 
+---
 
 En MindScope, nuestro objetivo es ayudar a las empresas a aprovechar al máximo el Big Data, y una de las formas en que podemos hacerlo es mediante la creación de modelos predictivos para la búsqueda de empleados.
 
@@ -34,9 +36,11 @@ Pero no solo queremos ayudar a las empresas a encontrar los empleados adecuados.
 Creemos que estos modelos predictivos son el futuro de la búsqueda de empleados y estamos emocionados de trabajar en ellos para proporcionar a las empresas y empleados las herramientas que necesitan para alcanzar el éxito.
 
 
-------------
+---
 
 ## **TECNOLOGIAS UTILIZADAS**
+
+---
 
 **Sistemas operativos:**
 
