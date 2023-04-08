@@ -9,28 +9,70 @@
 # ***MindScope - Consultora de Data Science***
 
 
-¡Bienvenido/a!.
+*¡Bienvenido/a a nuestra plataforma de búsqueda de empleo impulsada por tecnología de punta! En nuestra plataforma, utilizamos el poder del Machine Learning para conectar a los solicitantes de empleo con trabajos que se adapten perfectamente a sus habilidades y experiencia. Además, los reclutadores pueden aprovechar nuestra solución fácil de usar para almacenar y administrar los currículums de los candidatos. Únete a nosotros hoy y haz que tu búsqueda de empleo sea más fácil y efectiva. ¡Descubre tu próximo gran trabajo con nosotros!*
 
-En MindScope estamos encantados de tenerte aquí. Como consultora especializada en Data Science, estamos al tanto de los cambios constantes en el mundo de los negocios, y uno de los más significativos en los últimos años es el creciente interés y uso del Big Data.
-
-Las empresas han comenzado a reconocer la importancia de aprovechar sus datos como un activo valioso, y es aquí donde nuestra experiencia y conocimientos pueden ser de gran ayuda. Si bien el uso de los datos está en aumento, todavía hay un gran margen de crecimiento para muchas empresas que aún no han comenzado a aprovechar todo el potencial de los datos.
-
-En MindScope estamos comprometidos a ayudar a las empresas a dar el salto y utilizar el Big Data de manera efectiva, y estamos seguros de que, en los próximos años, veremos un aumento significativo en la demanda de profesionales y consultoras especializadas en este ámbito.
-
-Gracias por elegirnos como tu consultora de Data Science. ¡Estamos listos para ayudarte a hacer crecer tu negocio!
-
-
+<!-- TABLA DE CONTENIDO -->
+## INDICE
+<details open="open">
+  <summary>TABLA DE CONTENIDOS: </summary>
+  <ol>
+    <li>
+      <a href="#MindScope">MINDSCOPE</a>
+      <ul>
+        <li><a href="#¿Quienes somos?">¿Quienes somos?</a></li>
+        <li><a href="#Staff de profesionales">Staff de profesionales</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#Descripción del proyecto">Descripción del proyecto</a>
+      <ul>
+        <li><a href="#Entendimiento de la situación propuesta">Entendimiento de la situación propuesta</a></li>
+        <li><a href="#Objetivos">Objetivos</a></li>
+        <li><a href="#Alcance">Alcance</a></li>
+        <li><a href="#Limitaciones">Limitaciones</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#Propuesta de proyecto">Propuesta de proyecto</a>
+      <ul>
+        <li><a href="#web-scraping">Web Scraping</a></li>
+        <li><a href="#data-cleaning">Data Cleaning</a></li>
+        <li><a href="#exploratory-data-analysis">Exploratory Data Analysis</a></li>
+        <li><a href="#Power-BI">Power BI</a></li>
+        <li><a href="#model-building">Model Building</a></li>
+        <li><a href="#model-performance">Model performance</a></li>
+        <li><a href="#productionization">Productionization</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#Metodología-de-trabajo">Metodología de trabajo</a>
+      <ul>
+        <li><a href="#Metodología-Scrum">Metodología Scrum</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#Stack-tecnológico">Stack tecnológico</a>
+      <ul>
+        <li><a href="#Diagrama-de-Gantt">Tecnologías emergente</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#Cronología-general">Cronología general</a>
+      <ul>
+        <li><a href="#Diagrama-de-Gantt">Diagrama de Gantt</a></li>
+      </ul>
+    </li>
+  </ol>
+</details>
 
 ## **OBJETIVOS** 
 
 
-En MindScope, nuestro objetivo es ayudar a las empresas a aprovechar al máximo el Big Data, y una de las formas en que podemos hacerlo es mediante la creación de modelos predictivos para la búsqueda de empleados.
+1. *Conectar a los solicitantes de empleo con trabajos relevantes utilizando la tecnología de Machine Learning de nuestra plataforma.*
 
-Para lograr este objetivo, nos hemos propuesto estudiar toda la demanda del mercado laboral actual y utilizar esa información para desarrollar un modelo predictivo que facilite la búsqueda de empleados para las empresas. Este modelo se basará en el análisis de datos en tiempo real para identificar las habilidades y competencias que son más valoradas en el mercado laboral actual.
+2. *Proporcionar a los reclutadores una solución fácil de usar para almacenar y administrar los currículums de los candidatos.*
 
-Pero no solo queremos ayudar a las empresas a encontrar los empleados adecuados. También queremos ayudar a los empleados a mejorar sus posibilidades de encontrar un trabajo adecuado. Para ello, también estamos trabajando en el desarrollo de otro modelo predictivo que proporcione un feedback a los empleados sobre las herramientas que deberían aprender para aumentar su probabilidad de obtener un puesto de trabajo.
-
-Creemos que estos modelos predictivos son el futuro de la búsqueda de empleados y estamos emocionados de trabajar en ellos para proporcionar a las empresas y empleados las herramientas que necesitan para alcanzar el éxito.
+3. *Hacer que la búsqueda de empleo sea más fácil y efectiva para los solicitantes de empleo y los reclutadores.*
 
 
 
