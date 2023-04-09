@@ -13,7 +13,7 @@
       <a href="#MindScope">MindScope</a>
       <ul>
         <li><a href="#Quienes-somos">¿Quienes somos?</a></li>
-        <li><a href="#Staff-de-profesionales">Staff de profesionales</a></li>
+        <li><a href="#Nuestro-equipo">Nuestro equipo</a></li>
       </ul>
     </li>
     <li>
@@ -64,7 +64,7 @@ Nos enfocamos en brindar soluciones de análisis de datos, inteligencia de negoc
 
 ¡Estamos listos para ayudarte a hacer crecer tu negocio!
 
-### Staff de profesionales
+### Nuestro equipo
 Nuestro equipo de expertos está constantemente actualizado en las últimas tendencias y tecnologías del mercado laboral para brindar soluciones prácticas y efectivas para nuestros clientes. En MindScope , estamos comprometidos con el éxito de nuestros clientes. 
 
 <table>
