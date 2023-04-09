@@ -79,9 +79,6 @@ Nuestro equipo de expertos está constantemente actualizado en las últimas tend
   </tr>
 </table>
 
-
-Propuesta: Mejorar los cambios que existe en las ofertas de trabajo asociadas a, principalmente, el manejo de datos e información.
-
 ## Descripción del proyecto
 ### Entendimiento de la situación propuesta
 MindScope entiende la necesidad por parte de la empresa Recruiters IT  de mejorar los cambios que existe en las ofertas de trabajo asociadas al manejo de datos e información.
