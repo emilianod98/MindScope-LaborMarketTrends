@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://i.ibb.co/pyFZjfT/Mind-Scope.png">
+  <img src="https://github.com/emilianod98/MindScope-LaborMarketTrends/blob/main/src/MindScope.png">
 </p>
 
 
