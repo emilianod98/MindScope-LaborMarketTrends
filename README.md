@@ -44,9 +44,6 @@
     </li>
     <li>
       <a href="#Stack-tecnológico">Stack tecnológico</a>
-      <ul>
-        <li><a href="#Tecnologías-emergentes">Tecnologías emergentes</a></li>
-      </ul>
     </li>
     <li>
       <a href="#Cronología-general">Cronología general</a>
@@ -170,7 +167,6 @@ Utilizamos Scrum como metodología de trabajo para trabajar de manera más efici
 </p>
 
 ## Stack tecnológico
-### Tecnologías emergentes
 <a href="https://powerbi.microsoft.com"><img src="https://i.ibb.co/HF04J5w/power-bi.png" alt="Power-bi" width="60" height="40"></a>
 <a href="https://deta.space"><img src="https://i.ibb.co/NSwt4rV/deta-space.png" alt="deta-space" width="40" height="40"></a>
 <a href="https://pandas.pydata.org"><img src="https://i.ibb.co/VMLxsSr/pandas.png" alt="pandas" width="100" height="40"></a>
