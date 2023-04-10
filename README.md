@@ -126,10 +126,10 @@ En el análisis preliminar de la calidad de los datos, se realizó el proceso de
 EL proceso de EDA consistió en utilizar técnicas y herramientas para analizar y explorar los datos con el objetivo de obtener información útil para realizar la Aplicación web como propuesta de proyecto.
 
 + Comprobación de la distribución de los datos
-+ Comprobación de la presencia de valores atípicos
-+ Comprobación de la presencia de valores faltantes
-+ Comprobación de la consistencia de los datos
-+ Comprobación de la relación entre variables
++ Verificación de la presencia de valores atípicos
++ Validación de la presencia de valores faltantes
++ Confirmación de la consistencia de los datos
++ Control de la relación entre variables
 
 ### Power BI
 Ponemos a disposición un esfozo sobre los indicadores clave de rendimiento para el progreso y éxito de la propuesta del proyecto.  
