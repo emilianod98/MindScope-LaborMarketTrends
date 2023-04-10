@@ -105,7 +105,7 @@ Se tiene al alcance del proyecto lo siguiente:
 + Barreras tecnológicas 
 + Limitaciones presupuestales
 + Todo área geográfica fuera de Latinoamérica
-+ Cualquier otra actividad que demande mayor recurso de los ya mencionado
++ Cualquier otra actividad que demande mayor recurso de los ya mencionados
 
 ## Propuesta de proyecto
 ### Web Scraping
