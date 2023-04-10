@@ -98,7 +98,7 @@ MindScope entiende la necesidad por parte de la empresa Recruiters IT  de mejora
 Se tiene al alcance del proyecto lo siguiente:
 + Negocio objetivo: sector de Gestión de talento 
 + Fuente de información: datos en bruto
-+ Area geografica de alcance: Latinoamerica 
++ Área geográfica: Latinoamérica 
 + Periodo de información: 2016-2023
 
 ### Limitaciones
