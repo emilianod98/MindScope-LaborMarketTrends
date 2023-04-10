@@ -137,7 +137,7 @@ Ponemos a disposición un esfozo sobre los indicadores clave de rendimiento para
 KPIs sobre la propuesta de proyecto en *"Mejorar los cambios que existe en las ofertas de trabajo asociadas al manejo de datos e información"*.
 
 <p align="center">
-  <img src="https://i.ibb.co/PDWhnB9/kpi1.png">
+  <img src="https://i.ibb.co/nbtzsmL/kpi1.png">
 </p>
 
 <p align="center">
@@ -182,5 +182,5 @@ Utilizamos Scrum como metodología de trabajo para trabajar de manera más efici
 Se emplea el uso del Diagrama de Gantt como herramienta que nos permite visualizar las actividades de progreso del proyecto y ajustar el plan según sea necesario.
 
 <p align="center">
-  <img src="https://i.ibb.co/QdVLWp4/DGantt.png">
+  <img src="https://i.ibb.co/NrYDTBC/DGantt.png">
 </p>
