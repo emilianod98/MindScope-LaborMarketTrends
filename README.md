@@ -82,12 +82,12 @@ MindScope entiende la necesidad por parte de la empresa Recruiters IT  de mejora
 
 ### Objetivos
 + Objetivos del proyecto
-  + Investigará las tendencias en el mercado laboral relacionadas con el manejo de datos e información
+  + Se investigará las tendencias en el mercado laboral relacionadas con el manejo de datos e información
   + Se analizará las ofertas de trabajo actuales y las habilidades que se requieren para el sector de IT
-  + Identificará las habilidades y competencias requeridas
-  + Identificará las oportunidades de mejora
-  + Identificará los beneficios para las empresas
-  + Implementar soluciones específicas para la satisfacción de la necesidad
+  + Se identificará las habilidades y competencias requeridas
+  + Se identificará las oportunidades de mejora
+  + Se identificará los beneficios para las empresas
+  + Se implementará soluciones específicas para la satisfacción de la necesidad
 
 + Objetivos del grupo
   + Contar con el equipo especializado para dicho sector.
