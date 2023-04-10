@@ -72,7 +72,7 @@ Nuestro equipo de expertos está constantemente actualizado en las últimas tend
     <td align="center"><a href="https://github.com/luisfer2405"><img src="https://i.ibb.co/KzZwBbQ/LuisM.png" alt="LuisM" width="115" height="115"><br>Luis Montero</a></td>
     <td align="center"><a href="https://github.com/Adapa22"><img src="https://i.ibb.co/ZTJwhht/AdaP.png" alt="AdaP" width="115" height="115"><br>Ada Parhuana</a></td>
     <td align="center"><a href="https://github.com/emilianod98"><img src="https://i.ibb.co/QYMRKCh/EmiD.png" alt="EmiD" width="115" height="115"><br>Emiliano Daniele</a></td>
-    <td align="center"><a href="https://github.com/Matt-CB"><img src="https://i.ibb.co/86sDzzn/MatiasB.png" alt="LuisM" width="115" height="115"><br>Matias Benitez</a></td>
+    <td align="center"><a href="https://github.com/Matt-CB"><img src="https://i.ibb.co/86sDzzn/MatiasB.png" alt="MatiB" width="115" height="115"><br>Matias Benitez</a></td>
   </tr>
 </table>
 
@@ -155,12 +155,12 @@ En este punto, algunos aspectos en consideración:
 + Ajuste y validación del modelo
 
 ### Performance del modelo
-Solución de Aplicación web.Este tiene como objetivo ser un analizar de CV que identificará las habilidades y competencias requeridas, que contemplará factores socioculturales, tendencias de las ofertas de trabajo en el sector de IT y otros demandas propios del espacio geográfico de Latinoamérica requeridas por la empresa Recruiters IT .
+Solución de Aplicación web.Este tiene como objetivo ser un analizar de CV que identificará las habilidades y competencias requeridas, que contemplará factores socioculturales, tendencias de las ofertas de trabajo en el sector de IT y otras demandas propias de Latinoamérica requeridas por la empresa Recruiters IT.
 
 ## Metodología de trabajo
 ### Metodología Scrum
 
-Utilizamos Scrum como metodología de trabajo para trabajar de manera más eficiente y colaborativa, enfocarnos en la entrega de valor constante y adaptarnos a los cambios en los requisitos y objetivos del proyecto.
+Utilizamos Scrum como metodología de trabajo para trabajar de manera más eficiente y colaborativa, enfocados en la entrega de valor constante y adaptarnos a los cambios en los requisitos y objetivos del proyecto.
 
 <p align="center">
   <img src="https://i.ibb.co/2KQhQF2/scrum.png">
@@ -179,7 +179,7 @@ Utilizamos Scrum como metodología de trabajo para trabajar de manera más efici
 
 ## Cronología general
 ### Diagrama de Gantt
-Se emplea el uso del Diagrama de Gantt como herramienta que nos permite visualizar las actividades de progreso del proyecto y ajustar el plan según sea becesario.
+Se emplea el uso del Diagrama de Gantt como herramienta que nos permite visualizar las actividades de progreso del proyecto y ajustar el plan según sea necesario.
 
 <p align="center">
   <img src="https://i.ibb.co/QdVLWp4/DGantt.png">
